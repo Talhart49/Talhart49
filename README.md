@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rana Talha</h1>
 <h3 align="center">A passionate Web developer from Pakistan</h3>
 
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Talhart49/Talhart49/assets/76434482/38be4c66-1007-4780-ab13-668f0b830771)" />
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhart49&label=Profile%20views&color=0e75b6&style=flat" alt="talhart49" /> </p>
 
 - 🔭 I’m currently working on [Templater](...)
