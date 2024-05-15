@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhart49&label=Profile%20views&color=0e75b6&style=flat" alt="talhart49" /> </p>
 
-- 🔭 I’m currently working on <a href="https://aerocentral.com/" >AeroCentral </a>
+- 🔭 I’m currently working on <a href="https://aerocentral.com/" target="blank">AeroCentral </a>
 
 - 🌱 I’m currently learning **TypeScript**
 
