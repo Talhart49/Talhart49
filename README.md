@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhart49&label=Profile%20views&color=0e75b6&style=flat" alt="talhart49" /> </p>
 
-- 🔭 I’m currently working on [Templater](...)
+- 🔭 I’m currently working on [AeroCentral](...)
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-talhart49.vercel.app/](https://my-portfolio-talhart49.vercel.app/)
 
